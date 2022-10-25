@@ -1,0 +1,13 @@
+body{
+    position: relative;
+}
+.background{
+    height: 100vh;
+    background-image : url('./Photo/forest.jpg');
+    background-repeat: no-repeat;
+    background-size : cover;
+}
+.wblock{
+    height: 20vh;
+    background-color: white;
+}
